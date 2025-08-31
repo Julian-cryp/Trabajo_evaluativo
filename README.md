@@ -1,3 +1,7 @@
+
+## NOTA: Para descargar el archivo ".zip" darle click al archivo y una vez dentro no habra nada de visualizacion, para descargar el proyecto presione en donde dice "view raw", al presionar ahi el archivo se descargara solo.
+
+
 # Nombre del Proyecto
 Es una plataforma para poder ingresar actividades, para ver Nombre, Descripcion, Fecha, Hora, Estado.
 
